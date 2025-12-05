@@ -4,4 +4,6 @@
 3. Enter to python environemnts
 4. Install the kernal for book 
 5. Ready to Run
-   
+
+chroma_store is a vector Database file for sematic search 
+
